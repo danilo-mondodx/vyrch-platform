@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Vyrch Platform Docs
 
-You can use the [editor on GitHub](https://github.com/danilo-mondodx/vyrch-platform/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Vyrch is a platform to store, curate, manage and publish augmented reality (AR) content, specifically focused on E-commerce, making it easy to integrate and customize to fit your needs.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our intentions is to provide a common ground to help the communication among e-commerce teams to enhance conversion rates with a minimum effort.
 
-### Markdown
+The Vyrch platform (version 1.0 of 13/September/2021) have the following features:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Product Catalog: Manage all the AR products information and edition. Enable from public access and get metrics
+- Product Editor: Upload 3D models, customize their appearance, behaviour, add information cards and external links
 
-```markdown
-Syntax highlighted code block
+There are 2 ways to operate the platform:
 
-# Header 1
-## Header 2
-### Header 3
+- Using only the Web-based Vyrch Console [login here](https://xr.vyrch.com/console) and all related functionalites in it.
+- Using code/scripting APIs avaliable to empower variant behaviour and fully customize the Vyrch experience.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Getting Started
 
-**Bold** and _Italic_ and `Code` text
+To help you jump start, download the sample files made avaliable for you [here]()
+
+
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danilo-mondodx/vyrch-platform/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
