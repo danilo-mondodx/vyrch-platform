@@ -17,7 +17,9 @@ There are 2 ways to operate the platform:
 
 ## Getting Started
 
-To help you jump start, download the sample files made avaliable for you [here]()
+To help you jump start, download the sample files made avaliable for you [here](https://github.com/danilo-mondodx/vyrch-platform/archive/refs/heads/main.zip) and save in a local folder on your computer.
+
+
 
 
 
