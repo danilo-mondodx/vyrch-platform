@@ -19,7 +19,20 @@ There are 2 ways to operate the platform:
 
 To help you jump start, download the sample files made avaliable for you [here](https://github.com/danilo-mondodx/vyrch-platform/archive/refs/heads/main.zip) and save in a local folder on your computer.
 
-
+1. Load 3D models, name it and generate thumbnail
+2. Preview to Mobile/Desktop 
+3. Cover Image
+4. Augmented Reality
+5. Lighting
+6. Shadow
+7. Background
+8. Relationship of Background and Lighting 
+9. Information Card
+10. Publish
+11. Catalog Features
+12. Your Account
+13. Create a Conversion Request
+14. Geting Help and Support 
 
 
 
