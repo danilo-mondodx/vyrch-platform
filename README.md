@@ -9,7 +9,7 @@ This is a Community and Company official supported channels for:
 <li><a href="">Vyrch Website</a></li>
 <li><a href="https://github.com/danilo-mondodx/vyrch-platform/wiki">Console and API Documentation</a></li>
 <li><a href="">Youtube Tutorials</a></li>
-<li><a href="">Sample Assets</a></li>
+<li><a href="https://github.com/danilo-mondodx/vyrch-platform/archive/refs/heads/main.zip">Sample Assets</a></li>
 <li><a href="">Open Tickets for Troubleshooting</a></li>
 </ul>
 
