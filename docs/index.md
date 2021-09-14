@@ -1,4 +1,4 @@
-# Welcome to Vyrch's Knowledge Central
+# Vyrch: AR for E-commerce
 
 Here you'll find a lot of helpfull docs and features to improve your kwnoledge and ask for any questions needed.
 
