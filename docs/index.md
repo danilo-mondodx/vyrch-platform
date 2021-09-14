@@ -6,7 +6,7 @@ This is a Community and Company official supported channels for:
 
 <ul>
 <li><a href="https://www.vyrch.com/">Vyrch Website Link</a></li>
-<li><a href="https://danilo-mondodx.github.io/vyrch-platform/">Console and API Documentation</a></li>
+<li><a href="https://danilo-mondodx.github.io/vyrch-platform/">Console and API Documentation</a> (this page)</li>
 <!-- <li><a href="">Youtube Tutorials</a></li> -->
 <li><a href="https://github.com/danilo-mondodx/vyrch-platform/archive/refs/heads/main.zip">Sample Assets</a></li>
 <li><a href="https://github.com/danilo-mondodx/vyrch-platform/issues">Open Issues for Troubleshooting and/or Support</a></li>
@@ -34,25 +34,50 @@ There are 2 ways to operate the platform:
 - Using code/scripting APIs avaliable to empower variant behaviour and fully customize the Vyrch experience.
 
 
-## Getting Started
+## Getting Started on Web-based Console
 
 To help you jump start, download the sample files made avaliable for you [here](https://github.com/danilo-mondodx/vyrch-platform/archive/refs/heads/main.zip) and save in a local folder on your computer.
 
-1. Load 3D models, name it and generate thumbnail
-2. Preview to Mobile/Desktop 
-3. Cover Image
-4. Augmented Reality
-5. Lighting
-6. Shadow
-7. Background
-8. Relationship of Background and Lighting 
-9. Information Card
-10. Publish
-11. Catalog Features
-12. Your Account
-13. Create a Conversion Request
-14. Geting Help and Support 
+### Loading 3D models
+### Preview to Mobile and Desktop 
 
 
+## Features for Customization
 
-[Link](url) and ![Image](src)
+In the next section we will explore each Vyrch feature that allow us to change and customize the behaviour of our 3D model and prepare them for distribution.
+
+### 1.Cover Image
+### 2.Augmented Reality
+### 3.Lighting
+### 4.Shadow
+### 5.Background
+### 6.Information Card
+
+
+## Publishing and Managing AR Content
+
+Now that you have all prepared with your AR Product, is time to publish and manage all content and related integrations.
+
+### 1. Publish
+### 2. Catalog Functions
+### 3. Main Panel Information
+
+
+## 3D Modeling Services 
+
+We offer additional services to modeling products in 3D and made available directly inside Vyrch platform. Understand how to do it.
+
+### Create a Conversion Request
+
+
+## Account and Support
+
+Understand where your personal and corporate information are held and how to change it.
+
+### 1.Your Account
+### 2.Help and Support 
+
+
+## Javascript-based API
+
+
