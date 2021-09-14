@@ -1,4 +1,4 @@
-# Vyrch Platform Support Channel
+# Vyrch: AR for E-commerce
 
 Welcome to the direct channel from Vyrch to each one of it's users and collaborators.
 Here you'll find a lot of helpfull docs and features to improve your kwnoledge and ask for any questions needed.
