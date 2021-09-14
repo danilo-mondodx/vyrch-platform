@@ -17,7 +17,7 @@ In anytime that you feel lost or in need of support that you're not finding here
 Have a wonderfull AR experience!
 
 
-# Vyrch Documentation
+# Documentation
 
 Vyrch is a platform to store, curate, manage and publish augmented reality (AR) content, specifically focused on E-commerce, making it easy to integrate and customize to fit your needs.
 
